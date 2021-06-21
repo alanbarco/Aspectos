@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+
+
+<VBox id="VBox" fx:id="root" prefHeight="400.0" prefWidth="600.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/11.0.1" fx:controller="application.VentanaPrincipalController">
+   <children>
+      <HBox fx:id="container" alignment="CENTER" prefHeight="100.0" prefWidth="200.0" spacing="10.0">
+         <children>
+            <Button fx:id="btn1" mnemonicParsing="false" onAction="#changedColorRed" text="Red" />
+            <Button fx:id="btn2" mnemonicParsing="false" onAction="#changedColorPink" text="Pink" />
+            <Button fx:id="btn3" mnemonicParsing="false" onAction="#changedColorBlue" text="Blue" />
+         </children>
+      </HBox>
+   </children>
+</VBox>
