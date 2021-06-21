@@ -1,0 +1,7 @@
+void application.VentanaPrincipalController.changedColorRed(ActionEvent)Rojo Sun Jun 20 22:03:19 ECT 2021
+void application.VentanaPrincipalController.changedColorPink(ActionEvent)Rosa Sun Jun 20 22:03:19 ECT 2021
+void application.VentanaPrincipalController.changedColorBlue(ActionEvent)Azul Sun Jun 20 22:03:19 ECT 2021
+void application.VentanaPrincipalController.changedColorPink(ActionEvent)Rosa Sun Jun 20 22:03:19 ECT 2021
+void application.VentanaPrincipalController.changedColorRed(ActionEvent)Rojo Sun Jun 20 22:03:19 ECT 2021
+void application.VentanaPrincipalController.changedColorBlue(ActionEvent)Azul Sun Jun 20 22:03:19 ECT 2021
+void application.VentanaPrincipalController.changedColorPink(ActionEvent)Rosa Sun Jun 20 22:03:19 ECT 2021
